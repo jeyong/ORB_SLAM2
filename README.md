@@ -84,7 +84,7 @@ git clone https://github.com/raulmur/ORB_SLAM2.git ORB_SLAM2
 ```
 
 `build.sh` 스크립트를 제공하여 *Thirdparty* libraries 와 *ORB-SLAM2*를 빌드한다. 필요한 모든 의존성을 설치했는지 확인한다. (section 2). 실행 :
-```
+
 ```
 cd ORB_SLAM2
 chmod +x build.sh
